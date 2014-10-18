@@ -1,6 +1,7 @@
+
 <html>
   <head>
-    <title>Sample "Hello, World" Application</title>
+    <title>Samplefile 2 to learn git</title>
   </head>
   <body bgcolor=white>
 
@@ -9,12 +10,11 @@
         <td>
           <img src="images/springsource.png">
         </td>
-        <td>
-          <h1>Sample "Hello, World" Application</h1>
+        <td> 
+          <h1>Sample "Hello, World 2" Application</h1>
         </td>
       </tr>
     </table>
-    <p> added second file </p>
 
     <p>This is the home page for the HelloWorld Web application. </p>
     
